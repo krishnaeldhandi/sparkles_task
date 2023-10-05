@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">sparkles_landing</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!--  cardView Strings  -->
+    <string name="card_title">HOW DOES THIS APP WORK</string>
+    <string name="we_delivery">We Delivery</string>
+    <string name="we_Service">We Service</string>
+    <string name="we_Collect">We Collect</string>
+    <string name="pickup">Schedule Pickup</string>
+
+    <string name="details_title">Details Screen</string>
+
+    <!--  homeFragment  -->
+    <string name="service">Select Services</string>
+    <string name="rate_list">RATE LIST</string>
+    <string name="subText">(Can select multiple more than one)</string>
+
+</resources>
